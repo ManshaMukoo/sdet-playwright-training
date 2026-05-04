@@ -1,6 +1,0 @@
-function filterLongStrings(arr) {
-  return arr.filter(str => str.length > 5);
-}
-
-// Example
-console.log(filterLongStrings(["apple", "banana", "grapes", "kiwi", "orange"]));
